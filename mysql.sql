@@ -1,3 +1,4 @@
+-- This SQL file contains sample data for learning purposes only. No real user information is included.
 create database mysqlcourse; # it is used to create database, syntax: create database database_name;
 use mysqlcourse; # it is used to switch to database you want, syntax: use database_name;
 create table users(id int unsigned,name varchar(100),email varchar(150), password varchar(100),contact varchar(15), 
